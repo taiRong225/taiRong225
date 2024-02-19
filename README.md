@@ -7,8 +7,12 @@
 </h1>
 
 <!-- About -->
-<h2 align="center">ABOUT ME</h2>
-- [My Resume with more detail.](https://tairong.notion.site/Tai-Rong-Wu-1fc0ed9e74794421b59631b329731d3c?pvs=74)
+<h2 align="center">ABOUT</h2>
+<ul>
+  <li>
+    <a href="https://tairong.notion.site/Tai-Rong-Wu-1fc0ed9e74794421b59631b329731d3c?pvs=74" target="_blank">My Resume By Notion</a>
+  </li>
+</ul>
 
 <!-- Skill -->
 <h2 align="center">SKILL</h2>
@@ -21,4 +25,5 @@
   <img alt="SCSS" src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=scss&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </p>
